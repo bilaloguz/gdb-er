@@ -4,7 +4,6 @@
 
 It goes beyond standard debugging by integrating **Real-Time Memory Visualization** and **AI-Driven Crash Analysis**, transforming how developers understand complex systems code.
 
-![GDBer Screenshot](https://via.placeholder.com/800x450.png?text=GDBer+Dashboard)
 
 ## 🚀 Key Features
 
