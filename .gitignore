@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node
+frontend/node_modules/
+frontend/dist/
+npm-debug.log*
+
+# Database / Storage
+chroma_db/
+chroma_persistent_storage/
+
+# Environment Variables
+.env
+
+# Binary / Executables
+*.o
+*.out
+*.tgz
+demo_projects/crash_test
+demo_projects/logic_test
+demo_projects/struct_test
+
+# OS
+.DS_Store
