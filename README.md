@@ -6,10 +6,7 @@ It goes beyond standard debugging by integrating **Real-Time Memory Visualizatio
 
 
 <div align="center">
-  <img src="screenshots/screenshot_1.png" width="45%" />
-  <img src="screenshots/screenshot_2.png" width="45%" />
-  <img src="screenshots/screenshot_3.png" width="45%" />
-  <img src="screenshots/screenshot_4.png" width="45%" />
+  <img src="screenshots/carousel.gif" width="100%" />
 </div>
 
 ## Key Features
