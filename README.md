@@ -4,6 +4,14 @@
 
 It goes beyond standard debugging by integrating **Real-Time Memory Visualization** and **AI-Driven Crash Analysis**, transforming how developers understand complex systems code.
 
+
+<div align="center">
+  <img src="screenshots/screenshot_1.png" width="45%" />
+  <img src="screenshots/screenshot_2.png" width="45%" />
+  <img src="screenshots/screenshot_3.png" width="45%" />
+  <img src="screenshots/screenshot_4.png" width="45%" />
+</div>
+
 ## Key Features
 
 ### 1. Interactive Memory Graph
