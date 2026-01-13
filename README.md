@@ -1,6 +1,6 @@
 # GDBer: The AI-Powered Visual Debugger
 
-**GDBer** is a next-generation web interface for the GNU Debugger (GDB), designed to modernize the low-level C/C++ debugging experience.
+**GDBer** is a web interface for the GNU Debugger (GDB), designed to modernize the low-level C/C++ debugging experience.
 
 It goes beyond standard debugging by integrating **Real-Time Memory Visualization** and **AI-Driven Crash Analysis**, transforming how developers understand complex systems code.
 
@@ -23,7 +23,7 @@ Don't just see *where* it crashed—understand *why*.
 *   **Local AI**: Integrates with **Ollama** (Llama 3, Phi-3) to provide private, offline explanations for Segfaults and Logic Errors.
 *   **Smart Context**: Automatically prioritizes the active file and stack trace to give precise answers.
 
-### 3. ⚡ Cloud-Native Web Interface
+### 3. Cloud-Native Web Interface
 A full IDE-like experience in the browser.
 *   **Zero-Setup client**: Debug from any device with a browser.
 *   **Real-Time Sync**: Low-latency WebSockets sync stack frames, variables, and register states instantly.
